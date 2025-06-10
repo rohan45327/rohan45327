@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandu!  
+# 👋 Hi, I'm Rohan!  
 🎓 First-Year CSE Student | 💻 Self-Taught Developer | 🚀 Aspiring Frontend and Backend Engineer  
 
 ---
