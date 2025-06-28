@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chandu!
+# 👋 Hi there, I'm K.Rohan!
 
 🎓 Second-year Computer Science student  
 💡 Passionate about building smart web assistants & real-world solutions  
