@@ -33,6 +33,6 @@
 ---
 
 ## 🔗 Let's Connect!
-[LinkedIn](www.linkedin.com/in/satya-rohan-kompella-324805318) | [Email](chandujoshita47@gmail.com)
+LinkedIn: www.linkedin.com/in/satya-rohan-kompella-324805318 | Email :chandujoshita47@gmail.com
 
 
