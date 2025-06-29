@@ -36,7 +36,11 @@
 ---
 
 ## 🔗 Let's Connect!
-LinkedIn: www.linkedin.com/in/satya-rohan-kompella-324805318 || Email: chandujoshita47@gmail.com || 
-My-Portfolio: https://rohan45327.github.io/my_portfolio/myfolio.html
+LinkedIn: www.linkedin.com/in/satya-rohan-kompella-324805318 || Email: chandujoshita47@gmail.com
+
+---
+
+## My-Portfolio
+-[Rohan's Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html)
 
 
