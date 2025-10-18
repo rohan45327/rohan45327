@@ -8,14 +8,14 @@
 
 ## 💻 Tech Stack
 - 🐍 Python | ☕ Java | 🌐 HTML, CSS, JavaScript  
-- ⚛️ React.js, Gen Ai , Ai tools and more.
+- ⚛️ React.js, Postgres, SqlAlchemy, Gen Ai , Ai tools and more.
 - 🛠️ Tools: VS Code, Git, GitHub, Netlify
 
 ---
 
 ## 🧠 Currently Working On
 - 🗣️ A personal Python-based Jarvis Assistant  
-- 🌍 Web development projects using React  
+- 🌍 Web development projects using React
 - 📚 Problem-solving using Java & DSA
 
 ---
