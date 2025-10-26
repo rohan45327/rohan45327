@@ -32,7 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan45327&show_icons=false&theme=radical)
+![Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan45327&show_icons=true&theme=radical)
 
 ---
 
