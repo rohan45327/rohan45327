@@ -2,8 +2,7 @@
 
 🎓 Second-year Computer Science student  
 💡 Passionate about building smart web assistants & real-world solutions  
-🚀 Currently improving my skills related to Java and Advanced DSA
-😃 Looking forward for GSOC 2026
+🚀 Currently improving my skills related to Java, Advanced DSA and Looking forward for 🌞 GSOC 2026
 
 ---
 
