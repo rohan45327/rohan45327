@@ -21,7 +21,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   
 ---
 ## 📊 GitHub Stats
@@ -30,11 +31,11 @@
 ---
 
 ## 🔗 Let's Connect!
-LinkedIn: www.linkedin.com/in/satya-rohan-kompella-324805318 || Email: chandujoshita47@gmail.com
+![LinkedIn](www.linkedin.com/in/satya-rohan-kompella-324805318) || Email: chandujoshita47@gmail.com
 
 ---
 
 ## My-Portfolio
--[Rohan's Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html)
+-![My Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html)
 
 
