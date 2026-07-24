@@ -23,19 +23,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  
----
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan45327&show_icons=true&theme=dark)
+![Firebase](https://shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=orange)
+![OpenCV](https://shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=green)
+![Linux](https://shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=yellow)
+![Numpy](https://shields.io/badge/Numpy-lightblue?style=for-the-badge&logo=numpy&logoColor=blue)
+![Pandas](https://shields.io/badge/Pandas-indigo?style=for-the-badge&logo=pandas&logoColor=white)
+![YOLO](https://shields.io/badge/YOLO-darkblue?style=for-the-badge&logo=yolo&logoColor=white)
 
 ---
 
 ## 🔗 Let's Connect!
-- LinkedIn: [Visit](www.linkedin.com/in/satya-rohan-kompella-324805318) || Email: chandujoshita47@gmail.com
-
----
-
-## My-Portfolio
-- My Portfolio: [Visit](https://rohan45327.github.io/my_portfolio/myfolio.html)
-
+- [LinkedIn](www.linkedin.com/in/satya-rohan-kompella-324805318) || Email: chandujoshita47@gmail.com
+- [Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html)
 
