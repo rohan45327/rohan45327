@@ -35,7 +35,7 @@
 ## 🔗 Let's Connect!
  <img src="https://komarev.com/ghpvc/?username=rohan45327&label=Profile%20Views&color=5B3CC4&style=flat-square" />
  
-- ![LinkedIn](https://www.linkedin.com/in/satya-rohan-kompella-324805318) <br>
+- **LinkedIn** ![LinkedIn](https://www.linkedin.com/in/satya-rohan-kompella-324805318) <br>
 - Email: chandujoshita47@gmail.com <br>
-- ![Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html) <br>
+- **Portfolio** ![Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html) <br>
 
