@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm K.Rohan!
 
-🎓 Second-year Computer Science student  
+🎓 Third-year Computer Science student  
 💡 Passionate about building smart web assistants & real-world solutions  
-🚀 Currently improving my skills related to Java, Advanced DSA and Looking forward for 🌞 GSOC 2026
+🚀 Currently improving my skills related to Ai/ML, Advanced DSA and Looking forward for 🌞 GSOC 2027
 
 ---
 
@@ -33,6 +33,9 @@
 ---
 
 ## 🔗 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/satya-rohan-kompella-324805318) || Email: chandujoshita47@gmail.com
-- [Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html)
+ <img src="https://komarev.com/ghpvc/?username=rohan45327&label=Profile%20Views&color=5B3CC4&style=flat-square" />
+ 
+- ![LinkedIn](https://www.linkedin.com/in/satya-rohan-kompella-324805318) <br>
+- Email: chandujoshita47@gmail.com <br>
+- ![Portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html) <br>
 
