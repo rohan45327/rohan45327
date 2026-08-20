@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B3CC4&height=180&section=header&text=Hi,%20I'm%20Rohan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D82C20&height=180&section=header&text=Hi,%20I'm%20Rohan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B3CC4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI%2FML+%2B+Full-Stack+Builder;Building+drone-based+SHM+research+%40+UIIC;Prepping+for+GSoC+2027" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan45327&label=Profile%20Views&color=5B3CC4&style=flat-square" alt="Profile views"/>
@@ -21,23 +16,23 @@
 
 ---
 
-### 🎓 About Me
+### About Me
 
-- 🎓 Third-year Computer Science student
-- 💡 Passionate about building smart web assistants & real-world solutions
-- 🚀 Currently sharpening skills in **AI/ML** and **Advanced DSA**
-- 🌞 Looking forward to **GSoC 2027**
-- 🔭 Researching **drone-based structural health monitoring** at UIIC, advised by Dr. K. Anitha Sheela
+- Third-year Computer Science student
+- Passionate about building smart web assistants & real-world solutions
+- Currently sharpening skills in **AI/ML** and **Advanced DSA**
+- Looking forward to **GSoC 2027**
+- Researching **drone-based structural health monitoring** at UIIC, advised by Dr. K. Anitha Sheela
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛰️ UrbanVision**
+**UrbanVision**
 Drone-based structural health monitoring of bridges & urban infrastructure — a DST-NGP 2025 government-sponsored research project. Pipeline: drone footage → 3D photogrammetric reconstruction → YOLOv8 segmentation → raycasting-based anomaly localization on the 3D mesh, viewed in an interactive Babylon.js viewer. Two IEEE papers submitted to InGARSS 2026 based on this work.
 
 `OpenCV` `YOLOv8` `Agisoft Metashape` `QGIS` `Trimesh` `Babylon.js`
@@ -45,7 +40,7 @@ Drone-based structural health monitoring of bridges & urban infrastructure — a
 </td>
 <td width="50%" valign="top">
 
-**🐧 ROST**
+**ROST**
 A custom Linux distribution based on Xubuntu, built for college use — custom desktop wallpaper, welcome popup, branding/logo, and boot/login screen theming.
 
 `Linux` `Xubuntu` `Plymouth` `LightDM`
@@ -57,7 +52,7 @@ A custom Linux distribution based on Xubuntu, built for college use — custom d
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages & Core**
 
@@ -125,4 +120,4 @@ I can generate that workflow file for you if you want it set up — just ask.
 
 <p align="center"><i>⭐ Thanks for stopping by — feel free to explore my repos!</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B3CC4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D82C20&height=100&section=footer" width="100%"/>
