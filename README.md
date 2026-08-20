@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D82C20&height=180&section=header&text=Hi,%20I'm%20Rohan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D82C20&height=180&section=header&text=Hi,%20I'm%20Rohan&fontSize=42&fontColor=D4AF37&animation=fadeIn" width="100%"/>
 
 
 <p align="center">
@@ -92,23 +92,15 @@ A custom Linux distribution based on Xubuntu, built for college use — custom d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rohan45327&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohan45327&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rohan45327&show_icons=true&theme=maroongold&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohan45327&layout=compact&theme=maroongold&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan45327&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan45327&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
 </p>
 
-<!--
-🐍 Animated contribution snake (needs a one-time GitHub Actions setup):
-1. Create .github/workflows/snake.yml in your rohan45327/rohan45327 repo with the
-   Platane/snk action (generates a snake eating your real contribution graph).
-2. It commits an SVG to an "output" branch on a schedule.
-3. Then embed it here as:
-   <img src="https://raw.githubusercontent.com/rohan45327/rohan45327/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-I can generate that workflow file for you if you want it set up — just ask.
--->
+
 
 ---
 
