@@ -50,8 +50,6 @@ A custom Linux distribution based on Xubuntu, built for college use — custom d
 </tr>
 </table>
 
-> Add repo links here once public: `[UrbanVision Repo](#)` · `[ROST Repo](#)`
-
 ---
 
 ### 💻 Tech Stack
