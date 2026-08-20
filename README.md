@@ -1,13 +1,17 @@
-<h1 align="center">Hi, I'm Rohan 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B3CC4&height=180&section=header&text=Hi,%20I'm%20Rohan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h3 align="center">Computer Science Engineering Student · AI/ML & Full-Stack Builder</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B3CC4&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI%2FML+%2B+Full-Stack+Builder;Building+drone-based+SHM+research+%40+UIIC;Prepping+for+GSoC+2027+🌞" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan45327&label=Profile%20Views&color=5B3CC4&style=flat-square" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/satya-rohan-kompella-324805318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chandujoshita47@gmail.com">
+  <a href="mailto:satyarohankompella@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://rohan45327.github.io/my_portfolio/myfolio.html">
@@ -49,6 +53,7 @@ A custom Linux distribution based on Xubuntu, built for college use — custom d
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -92,20 +97,32 @@ A custom Linux distribution based on Xubuntu, built for college use — custom d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohan45327&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan45327&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rohan45327&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rohan's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohan45327&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan45327&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan45327&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
 </p>
+
+<!--
+🐍 Animated contribution snake (needs a one-time GitHub Actions setup):
+1. Create .github/workflows/snake.yml in your rohan45327/rohan45327 repo with the
+   Platane/snk action (generates a snake eating your real contribution graph).
+2. It commits an SVG to an "output" branch on a schedule.
+3. Then embed it here as:
+   <img src="https://raw.githubusercontent.com/rohan45327/rohan45327/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+I can generate that workflow file for you if you want it set up — just ask.
+-->
 
 ---
 
 ### 🔗 Let's Connect
 
 - **LinkedIn:** [satya-rohan-kompella](https://www.linkedin.com/in/satya-rohan-kompella-324805318)
-- **Email:** chandujoshita47@gmail.com
+- **Email:** satyarohankompella@gmail.com
 - **Portfolio:** [rohan45327.github.io/my_portfolio](https://rohan45327.github.io/my_portfolio/myfolio.html)
 
 <p align="center"><i>⭐ Thanks for stopping by — feel free to explore my repos!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B3CC4&height=100&section=footer" width="100%"/>
